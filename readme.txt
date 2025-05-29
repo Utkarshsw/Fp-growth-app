@@ -1,0 +1,1 @@
+Fp growth app which give information about frequent item sets.
